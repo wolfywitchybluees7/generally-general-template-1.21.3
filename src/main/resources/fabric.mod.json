@@ -1,18 +1,18 @@
 {
 	"schemaVersion": 1,
-	"id": "gg-mod",
+	"id": "ggmod",
 	"version": "${version}",
 	"name": "Generally General",
-	"description": "This is an example description! Tell everyone what your mod is about!",
+	"description": "hi wassup",
 	"authors": [
-		"Me!"
+		"wolfywitchybluees7"
 	],
 	"contact": {
 		"homepage": "https://fabricmc.net/",
 		"sources": "https://github.com/FabricMC/fabric-example-mod"
 	},
 	"license": "CC0-1.0",
-	"icon": "assets/gg-mod/icon.png",
+	"icon": "assets/ggmod/icon.png",
 	"environment": "*",
 	"entrypoints": {
 		"main": [
@@ -26,7 +26,7 @@
 		]
 	},
 	"mixins": [
-		"gg-mod.mixins.json"
+		"ggmod.mixins.json"
 	],
 	"depends": {
 		"fabricloader": ">=0.16.9",
